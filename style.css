@@ -365,7 +365,7 @@ li a:hover {
 }
 
 .contact-left p i{
-  color: brown;
+  color: rgb(69, 42, 165);
   font-size: 25px;
 }
 
@@ -382,13 +382,13 @@ li a:hover {
 }
 
 .social-icons a:hover{
-  color:brown;
+  color:rgb(69, 42, 165);
   transform: translateY(-5px);
 }
 
 .btn.btn2{
   display: inline-block;
-  background: brown;
+  background: rgb(69, 42, 165);
   transition: background 1s;
 }
 .btn.btn2:hover{
