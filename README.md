@@ -5,7 +5,10 @@
 # Overview 
 The purpose of this project is to analyse the audio features of top songs by popular global artists and investigate if there is a correlation between these features and their popularity. While there may be some commonalities among the audio features of top songs by popular global artists, it is unlikely that all songs will sound the same. Different artists have unique styles and preferences, which can be reflected in the audio features of their songs. However, it is possible to identify certain trends or characteristics that contribute to the popularity of these songs.
 
-# Contents
+# Link to Final Website
+https://shaanrxx.github.io/WhatMakesASongPopular/
+
+<!-- # Contents
 1. Link to Final Project Website <br>
 2. Folder Structure  <br>
 3. Jupyter Notebook - Important Notebooks   <br>
@@ -33,7 +36,7 @@ public_html - code to my website  <br>
 # Important CSV Files
 - 10years_top_tracks_4.csv ---- used for equaliser bar graph  <br>
 - 10years_top_tracks_all.csv ---- used for cd graph  <br>
-- mean_values.csv ---- used for the summary graph  <br>
+- mean_values.csv ---- used for the summary graph  <br> -->
 
 # p5.js sketches
 Equaliser - https://editor.p5js.org/shaanrxx/sketches/8DJl_bVej  <br>
