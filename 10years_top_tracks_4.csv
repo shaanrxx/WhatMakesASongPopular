@@ -1,0 +1,101 @@
+Year,Track,Artists,Danceability,Energy,Tempo,Instrumentalness
+2013,I Wanna Be Yours,Arctic Monkeys,0.464,0.417,67.528,0.022
+2013,Sweater Weather,The Neighbourhood,0.612,0.807,124.053,0.0177
+2013,Why'd You Only Call Me When You're High?,Arctic Monkeys,0.691,0.631,92.004,1.13e-05
+2013,Do I Wanna Know?,Arctic Monkeys,0.548,0.532,85.03,0.000263
+2013,Bound 2,Kanye West,0.367,0.665,148.913,0
+2013,Break from Toronto,PARTYNEXTDOOR,0.595,0.678,117.067,0.00389
+2013,Love Me,"Lil Wayne, Drake, Future",0.669,0.634,124.906,0
+2013,Wagon Wheel,Darius Rucker,0.537,0.66,148.096,0
+2013,3005,Childish Gambino,0.664,0.447,83.138,0
+2013,Cigarette Daydreams,Cage The Elephant,0.636,0.676,113.98,0
+2014,No Role Modelz,J. Cole,0.69,0.521,100.028,0
+2014,Lovers Rock,TV Girl,0.559,0.871,104.97,0.00545
+2014,I Love You So,The Walters,0.575,0.648,75.977,0
+2014,Wet Dreamz,J. Cole,0.495,0.722,175.627,0
+2014,Chamber Of Reflection,Mac DeMarco,0.538,0.557,131.03,0.914
+2014,Riptide,Vance Joy,0.484,0.731,101.654,0
+2014,Blank Space,Taylor Swift,0.753,0.678,96.006,1.64e-06
+2014,Style,Taylor Swift,0.598,0.786,95.019,0.0016
+2014,Shake It Off,Taylor Swift,0.647,0.785,160.015,0
+2014,Take Me to Church,Hozier,0.566,0.664,128.945,0
+2015,The Hills,The Weeknd,0.585,0.564,113.003,0
+2015,The Less I Know The Better,Tame Impala,0.64,0.74,116.879,0.00678
+2015,Daddy Issues,The Neighbourhood,0.588,0.521,85.012,0.149
+2015,Star Shopping,Lil Peep,0.538,0.471,93.07,0.0185
+2015,Don't,Bryson Tiller,0.765,0.356,96.991,0
+2015,Tennessee Whiskey,Chris Stapleton,0.392,0.37,48.718,0.0096
+2015,Alright,Kendrick Lamar,0.796,0.766,110.034,0
+2015,Alien Blues,Vundabar,0.467,0.757,82.282,0.908
+2015,Space Song,Beach House,0.508,0.792,147.067,0.124
+2015,The Night We Met,Lord Huron,0.545,0.366,86.997,0.267
+2016,Starboy,"The Weeknd, Daft Punk",0.679,0.587,186.003,6.35e-06
+2016,Die For You,The Weeknd,0.586,0.525,133.629,0
+2016,Pink + White,Frank Ocean,0.545,0.545,159.94,5.48e-05
+2016,One Dance,"Drake, Wizkid, Kyla",0.792,0.625,103.967,0.0018
+2016,Die For You,The Weeknd,0.582,0.525,133.249,0
+2016,Redbone,Childish Gambino,0.745,0.353,160.111,0.00662
+2016,Father Stretch My Hands Pt. 1,Kanye West,0.724,0.573,113.088,0
+2016,Cigarettes out the Window,TV Girl,0.625,0.659,113.551,0
+2016,Not Allowed,TV Girl,0.67,0.905,104.965,0.000227
+2016,Me and Your Mama,Childish Gambino,0.545,0.442,118.073,0.0271
+2017,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",0.558,0.559,78.558,7.49e-06
+2017,Clean White Noise - Loopable with no fade,"White Noise Baby Sleep, White Noise for Babies",0,0.00342,0,1.0
+2017,Don’t Blame Me,Taylor Swift,0.615,0.534,135.917,1.76e-05
+2017,Dark Red,Steve Lacy,0.603,0.784,172.041,8.32e-06
+2017,Freestyle,Lil Baby,0.877,0.517,119.996,0
+2017,PRIDE.,Kendrick Lamar,0.665,0.535,138.842,1.68e-05
+2017,LOVE. FEAT. ZACARI.,"Kendrick Lamar, Zacari",0.8,0.585,126.058,0
+2017,When It Rains It Pours,Luke Combs,0.551,0.801,128.027,6.03e-06
+2017,Apocalypse,Cigarettes After Sex,0.369,0.467,94.473,0.46
+2017,Feathered Indians,Tyler Childers,0.536,0.574,87.194,0.00277
+2018,Blue Hair,TV Girl,0.751,0.72,135.73,0.0497
+2018,All Girls Are The Same,Juice WRLD,0.671,0.529,161.989,0.000335
+2018,Drip Too Hard (Lil Baby & Gunna),"Lil Baby, Gunna",0.897,0.662,112.511,0
+2018,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)","Kali Uchis, Tyler, The Creator, Bootsy Collins",0.702,0.659,79.64,0.00201
+2018,Whiskey Glasses,Morgan Wallen,0.614,0.68,149.959,1.84e-06
+2018,Pure Cocaine,Lil Baby,0.964,0.487,127.05,6.57e-06
+2018,Chasin' You,Morgan Wallen,0.631,0.591,97.074,0
+2018,Yes Indeed,"Lil Baby, Drake",0.963,0.346,119.957,0
+2018,Beautiful Crazy,Luke Combs,0.551,0.402,103.313,0
+2018,She Got the Best of Me,Luke Combs,0.533,0.907,150.99,0
+2019,Cruel Summer,Taylor Swift,0.552,0.702,169.994,2.06e-05
+2019,All Of The Girls You Loved Before,Taylor Swift,0.718,0.467,95.96,6.92e-05
+2019,Lover,Taylor Swift,0.359,0.543,68.534,1.58e-05
+2019,Circles,Post Malone,0.695,0.762,120.042,0.00244
+2019,Heart To Heart,Mac DeMarco,0.901,0.136,150.076,0.354
+2019,The Man,Taylor Swift,0.777,0.658,110.048,0
+2019,MIDDLE CHILD,J. Cole,0.837,0.364,123.984,0
+2019,HONEST,Baby Keem,0.676,0.536,79.037,3.37e-05
+2019,Heading South,Zach Bryan,0.68,0.246,110.23,0
+2019,All Your'n,Tyler Childers,0.585,0.55,78.176,3.97e-05
+2020,Heat Waves,Glass Animals,0.761,0.525,80.87,6.7e-06
+2020,cardigan,Taylor Swift,0.613,0.581,130.033,0.000345
+2020,Shut up My Moms Calling,Hotel Ugly,0.485,0.409,138.419,0
+2020,Glock In My Lap,"21 Savage, Metro Boomin",0.847,0.733,130.029,1.04e-05
+2020,Clean Baby Sleep White Noise (Loopable),"Dream Supplier, Baby Sleeps, Granular Noise",0,0.00832,0,1.0
+2020,Clouded,Brent Faiyaz,0.583,0.344,65.203,0
+2020,Brown Sleep Noise,Sleep Miracle,0.0555,0.0837,59.509,1.0
+2020,Runnin,"21 Savage, Metro Boomin",0.819,0.626,143.01,0.101
+2020,Low Down,Lil Baby,0.962,0.619,127.958,0
+2020,Heartless (feat. Morgan Wallen),"Diplo, Morgan Wallen",0.765,0.556,111.033,0
+2021,Por las Noches,Peso Pluma,0.807,0.595,92.491,2.44e-05
+2021,The Color Violet,Tory Lanez,0.645,0.534,105.02,0
+2021,Sunroof,"Nicky Youre, dazy",0.768,0.714,131.443,0
+2021,Wasted On You,Morgan Wallen,0.505,0.657,196.0,0.00107
+2021,Fair Trade (with Travis Scott),"Drake, Travis Scott",0.666,0.465,167.937,0
+2021,Knife Talk (with 21 Savage ft. Project Pat),"Drake, 21 Savage, Project Pat",0.849,0.424,145.887,0
+2021,family ties (with Kendrick Lamar),"Baby Keem, Kendrick Lamar",0.711,0.611,134.093,0
+2021,Wants and Needs (feat. Lil Baby),"Drake, Lil Baby",0.578,0.449,136.006,2.17e-06
+2021,Buy Dirt,"Jordan Davis, Luke Bryan",0.586,0.559,177.945,0
+2021,More Than My Hometown,Morgan Wallen,0.62,0.869,126.019,0
+2022,Creepin' (with The Weeknd & 21 Savage),"Metro Boomin, The Weeknd, 21 Savage",0.715,0.62,97.95,0
+2022,Anti-Hero,Taylor Swift,0.637,0.643,97.008,1.8e-06
+2022,Calm Down (with Selena Gomez),"Rema, Selena Gomez",0.801,0.806,106.999,0.000669
+2022,Kill Bill,SZA,0.644,0.735,88.98,0.144
+2022,AMG,"Natanael Cano, Peso Pluma, Gabito Ballesteros",0.772,0.73,136.175,0.000107
+2022,Snooze,SZA,0.559,0.551,143.008,0
+2022,Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",0.526,0.606,116.622,2.36e-06
+2022,Rich Flex,"Drake, 21 Savage",0.561,0.52,153.15,1.86e-06
+2022,Just Wanna Rock,Lil Uzi Vert,0.486,0.545,150.187,0.00474
+2022,Something in the Orange,Zach Bryan,0.369,0.192,175.212,8.35e-06
